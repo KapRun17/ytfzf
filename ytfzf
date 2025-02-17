@@ -45,7 +45,7 @@ export YTFZF_PID=$$
 # set -x may also be used.
 
 ############################
-#        CODE STYLE)       #
+#        CODE STYLE        #
 ############################
 
 ##################
